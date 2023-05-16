@@ -1,0 +1,9 @@
+﻿BFSword.png
+RecurveBow.png
+NeedlesslyLargeRod.png
+TearoftheGoddess.png
+ChainVest.png
+NegatronCloak.png
+GiantsBelt.png
+Spatula.png
+SparringGloves.png
